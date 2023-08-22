@@ -1,0 +1,43 @@
+body {
+    
+   
+    background-color: #dda3a3;
+
+}
+
+header {
+    font-family:'Times New Roman', Times, serif;
+} 
+
+.img {
+    float: right;
+    border-radius: 50px;
+    
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #a3c3dd;
+}
+
+li {
+   display: inline-block;
+   padding: 10px;
+   float: right;
+}
+
+a:visited {
+    background-color: black;
+}
+
+a:hover {
+    background-color: blue;
+}
+
+
+
+
+
